@@ -40,3 +40,9 @@ header {
     cursor: pointer;
 }
 
+/*main content styles*/
+main-content {
+    display:flex;
+    padding: 20px;
+}
+
