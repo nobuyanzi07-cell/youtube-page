@@ -30,3 +30,13 @@ header {
     border: 1px solid #ccc;
     border-radius: 20px;
 }
+
+.search-bar button {
+    padding: 8px 16px;
+    border: none;
+    background-color: red;
+    color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
