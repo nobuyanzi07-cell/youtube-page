@@ -101,3 +101,28 @@ main-content {
 .sidebar h3 {
     margin-top:0;
 }
+
+/*Comments Sectiom*/
+.comments {
+    margin: 20px;
+    background:#fff;
+    padding:15px;
+    border:1px solid #ddd;
+}
+
+.comments textarea {
+    width:100%;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    margin-bottom:10px;   
+}
+
+.comments button {
+    padding:10px 20px;
+    background-color: red;
+    color:#fff;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
