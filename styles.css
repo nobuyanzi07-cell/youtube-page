@@ -41,7 +41,7 @@ header {
 }
 
 /*main content styles*/
-main-content {
+.main-content {
     display:flex;
     padding: 20px;
 }
