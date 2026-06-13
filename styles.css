@@ -65,3 +65,12 @@ main-content {
     margin: 10px 0;
     font-size: 16px;
 }
+
+.subscribe-btn {
+    padding: 10px 20px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
