@@ -85,3 +85,19 @@ main-content {
     border-radius: 3px;
 }
 
+/*sidebar styles*/
+.sidebar {
+    flex:1;
+    background-color: #fff;
+    padding: 10px;
+    border:1px solid #ddd;
+}
+
+.recommended-video {
+    display:flex;
+    margin-bottom:10px;
+}
+
+.sidebar h3 {
+    margin-top:0;
+}
